@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!--
+      This is the page head - it contains info the browser uses to display the page
+      You won't see what's in the head in the page
+      Scroll down to the body element for the page content
+    -->
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
+
+    <!-- 
+      This is an HTML comment
+      You can write text in a comment and the content won't be visible in the page
+    -->
+
+    <title>Nguyen Duc Khoa Dang Blog !</title>
+    
+  </head>
+  
+  
+  <body>
+     <h1> Nguyễn Đức Khoa Đăng's Profile
+    
+  </h1>
+  <ol>
+    <li> Tốt Nghiệp THPT FPT Cần Thơ </li>
+    <li> Năm Nhất Đại Học FPT TPHCM </li>
+    <li>Tự Học Code</li> 
+    <li> Ielts 6.5</li>
+  </ol>
+    <img width ="200" src="https://scontent.fhan2-5.fna.fbcdn.net/v/t39.30808-6/310712571_1260626601403193_277123651393141150_n.jpg?stp=dst-jpg_p526x296&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=-xV8H_Ql-q8AX_kGAQq&_nc_ht=scontent.fhan2-5.fna&oh=00_AfDzMvRGeppMmoTOuWwBU4zWQ1E_NQnqOhJkE5JWnE2C0w&oe=63E691DB"/>
+   
+     <br></br><label> Tôi có đẹp trai không</label>
+  <select>
+   <option> Quá đẹp trai</option> 
+  <option> Cũng bình thường</option>
+  <option>Đẹp trai</option>
+  </select>
+  </br>
+</br>
+<h1>
+  Các bạn có gì cần hỏi không
+</h1>
+<form>
+  <input type = "test"  placeholder = "Điền câu hỏi"/>
+  <button>
+     Gửi câu hỏi
+  </button>
+</form>
+<h2>
+  Thông tin liên hệ
+</h2>
+<ul>
+  <li>Email : khoadangnguyen307@gmail.com</li>
+  <li>Facebook : <a href="\https://www.doisongphapluat.com/bts-lien-tuc-truot-grammy-3-nam-lien-tiep-a565220.html"> KDK.Infor</a></li>
+</ul>
+
+    
+  
+  </body>
+</html>
+
